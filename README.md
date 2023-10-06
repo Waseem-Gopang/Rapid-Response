@@ -14,6 +14,6 @@ RR App is designed to provide assistance in emergency situations.
 
 => Use Google Maps API, location data and mobile sensors to provide accurate and real-time information to both users and responders.
 
-<img src="login.jpeg" alt="Screenshot" width="400" height="550"> <img src="SignUp" alt="Screenshot" width="400" height="550">
+<img src="login.jpeg" alt="Screenshot" width="400" height="550"> <img src="SignUp.jpeg" alt="Screenshot" width="400" height="550">
 
 
