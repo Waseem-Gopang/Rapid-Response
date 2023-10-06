@@ -16,4 +16,16 @@ RR App is designed to provide assistance in emergency situations.
 
 <img src="login.jpeg" alt="Screenshot" width="400" height="550"> <img src="SignUp.jpeg" alt="Screenshot" width="400" height="550">
 
+<img src="terms.jpeg" alt="Screenshot" width="400" height="550"> <img src="verify.jpeg" alt="Screenshot" width="400" height="550">
+
+<img src="Forget.jpeg" alt="Screenshot" width="400" height="550"> <img src="profile.jpeg" alt="Screenshot" width="400" height="550">
+
+<img src="emergency.jpeg" alt="Screenshot" width="400" height="550"> <img src="dashboard.jpeg" alt="Screenshot" width="400" height="550">
+
+<img src="police.jpeg" alt="Screenshot" width="400" height="550"> <img src="firefighter.jpeg" alt="Screenshot" width="400" height="550">
+
+<img src="ambulance.jpeg" alt="Screenshot" width="400" height="550"> <img src="hospital.jpeg" alt="Screenshot" width="400" height="550">
+
+<img src="sos.jpeg" alt="Screenshot" width="400" height="550"> 
+
 
