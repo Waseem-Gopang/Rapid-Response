@@ -1,16 +1,14 @@
-# rapidresponse
+**Rapid Response App**
+RR App is designed to provide assistance in emergency situations.
 
-A new Flutter project.
+**Features:** 
+=> Send emergency messages with your location and emergency type, allowing responders to quickly assess and address the situation.
 
-## Getting Started
+=> Call emergency numbers according to emergency type, and see nearby locations of hospitals, police stations and more.
 
-This project is a starting point for a Flutter application.
+=> Add emergency contacts to receive emergency SMS messages.
 
-A few resources to get you started if this is your first Flutter project:
+=> Initiate SOS request with the push of a button.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+=> Use Google Maps API, location data and mobile sensors to provide accurate and real-time information to both users and responders.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
